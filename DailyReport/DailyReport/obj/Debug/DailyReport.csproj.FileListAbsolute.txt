@@ -1,0 +1,7 @@
+D:\Users\Kris\Desktop\TTA-C-Sharp\DailyReport\DailyReport\bin\Debug\DailyReport.exe.config
+D:\Users\Kris\Desktop\TTA-C-Sharp\DailyReport\DailyReport\bin\Debug\DailyReport.exe
+D:\Users\Kris\Desktop\TTA-C-Sharp\DailyReport\DailyReport\bin\Debug\DailyReport.pdb
+D:\Users\Kris\Desktop\TTA-C-Sharp\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.AssemblyReference.cache
+D:\Users\Kris\Desktop\TTA-C-Sharp\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.CoreCompileInputs.cache
+D:\Users\Kris\Desktop\TTA-C-Sharp\DailyReport\DailyReport\obj\Debug\DailyReport.exe
+D:\Users\Kris\Desktop\TTA-C-Sharp\DailyReport\DailyReport\obj\Debug\DailyReport.pdb
