@@ -1,0 +1,7 @@
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ColorGuess\ColorGuess\bin\Debug\ColorGuess.exe.config
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ColorGuess\ColorGuess\bin\Debug\ColorGuess.exe
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ColorGuess\ColorGuess\bin\Debug\ColorGuess.pdb
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ColorGuess\ColorGuess\obj\Debug\ColorGuess.csproj.AssemblyReference.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ColorGuess\ColorGuess\obj\Debug\ColorGuess.csproj.CoreCompileInputs.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ColorGuess\ColorGuess\obj\Debug\ColorGuess.exe
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ColorGuess\ColorGuess\obj\Debug\ColorGuess.pdb
