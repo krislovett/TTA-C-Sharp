@@ -1,0 +1,7 @@
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Strings\Strings\bin\Debug\Strings.exe.config
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Strings\Strings\bin\Debug\Strings.exe
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Strings\Strings\bin\Debug\Strings.pdb
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Strings\Strings\obj\Debug\Strings.csproj.AssemblyReference.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Strings\Strings\obj\Debug\Strings.exe
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Strings\Strings\obj\Debug\Strings.pdb
