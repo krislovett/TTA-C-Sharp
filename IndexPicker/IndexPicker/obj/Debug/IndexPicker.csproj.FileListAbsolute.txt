@@ -1,0 +1,7 @@
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\IndexPicker\IndexPicker\bin\Debug\IndexPicker.exe.config
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\IndexPicker\IndexPicker\bin\Debug\IndexPicker.exe
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\IndexPicker\IndexPicker\bin\Debug\IndexPicker.pdb
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\IndexPicker\IndexPicker\obj\Debug\IndexPicker.csproj.AssemblyReference.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\IndexPicker\IndexPicker\obj\Debug\IndexPicker.csproj.CoreCompileInputs.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\IndexPicker\IndexPicker\obj\Debug\IndexPicker.exe
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\IndexPicker\IndexPicker\obj\Debug\IndexPicker.pdb
