@@ -1,0 +1,7 @@
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\PackageExpress\PackageExpress\bin\Debug\PackageExpress.exe.config
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\PackageExpress\PackageExpress\bin\Debug\PackageExpress.exe
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\PackageExpress\PackageExpress\bin\Debug\PackageExpress.pdb
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\PackageExpress\PackageExpress\obj\Debug\PackageExpress.csproj.AssemblyReference.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\PackageExpress\PackageExpress\obj\Debug\PackageExpress.csproj.CoreCompileInputs.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\PackageExpress\PackageExpress\obj\Debug\PackageExpress.exe
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\PackageExpress\PackageExpress\obj\Debug\PackageExpress.pdb
