@@ -9,7 +9,7 @@ namespace Iteration
         static void Main()
         {
             //append user's input to each item in array
-            string[] stringArray = { "cow", "chicken", "horse", "pig", "sheep", "goat" };
+            string[] stringArray = { "car", "truck", "van", "motorcycle", };
 
             Console.WriteLine("Enter text:");
             string addText = Console.ReadLine();
@@ -59,30 +59,41 @@ namespace Iteration
             bool searchFound = pets.Contains(search);
             Console.WriteLine();
 
-            foreach (string pet in pets)
+            for (int i = 0; i < pets.Count(); i++ )
             {
-                //if search matches a pet, print index of matching pet
+                //if search isn't found, break loop
                 if (!searchFound)
                 {
                     Console.WriteLine(search + " is not on this list.");
                     break;
                 }
-                if (search == pet)
+                //if search matches a pet, print index of matching pet
+                if (search == pets[i])
                 {
-                    Console.WriteLine(pet + " index: " + pets.IndexOf(pet));
+                    Console.WriteLine(pets[i] + " index: " + i);
                 }
-                else if (search != pet)
+                else if (search != pets[i])
                 {
-                    Console.WriteLine(pet);
+                    Console.WriteLine(pets[i]);
                 }
             }
             Console.WriteLine();
 
-            List<string> colors = new List<string>() { "red", "orange", "yellow", "green", "blue", "purple", "red" };
+            List<string> colors = new List<string>() { "red", "orange", "yellow", "green", "red", "blue", "purple" };
+            List<string> colorsCopy = new List<string>();
+
+            //use colorsCopy list to hold a copies of previous colors from main list to compare if current color has been on the list already
             Console.WriteLine("Colors:");
             foreach (string color in colors)
             {
-                Console.WriteLine(color);
+                foreach (string colorCopy in colorsCopy)
+                {
+                    if (colorCopy == color)
+                    {
+                        Console.WriteLine("\"" + color + "\"" + " occurs more than once.");
+                    }
+                }
+                colorsCopy.Add(color);
             }
 
             Console.Read();
