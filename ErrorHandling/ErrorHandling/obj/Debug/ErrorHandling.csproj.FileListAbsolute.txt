@@ -1,0 +1,7 @@
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.exe.config
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.exe
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.pdb
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.csproj.AssemblyReference.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.csproj.CoreCompileInputs.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.exe
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.pdb
