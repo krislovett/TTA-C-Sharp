@@ -1,0 +1,7 @@
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\CallingMethods\CallingMethods\bin\Debug\CallingMethods.exe.config
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\CallingMethods\CallingMethods\bin\Debug\CallingMethods.exe
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\CallingMethods\CallingMethods\bin\Debug\CallingMethods.pdb
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\CallingMethods\CallingMethods\obj\Debug\CallingMethods.csproj.AssemblyReference.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\CallingMethods\CallingMethods\obj\Debug\CallingMethods.csproj.CoreCompileInputs.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\CallingMethods\CallingMethods\obj\Debug\CallingMethods.exe
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\CallingMethods\CallingMethods\obj\Debug\CallingMethods.pdb
