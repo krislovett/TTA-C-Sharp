@@ -1,0 +1,6 @@
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\People\People\bin\Debug\People.exe.config
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\People\People\bin\Debug\People.exe
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\People\People\bin\Debug\People.pdb
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\People\People\obj\Debug\People.csproj.CoreCompileInputs.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\People\People\obj\Debug\People.exe
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\People\People\obj\Debug\People.pdb
