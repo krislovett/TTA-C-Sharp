@@ -1,0 +1,7 @@
+D:\Users\Kris\Documents\GitHub\MethodClass\MethodClass\bin\Debug\MethodClass.exe.config
+D:\Users\Kris\Documents\GitHub\MethodClass\MethodClass\bin\Debug\MethodClass.exe
+D:\Users\Kris\Documents\GitHub\MethodClass\MethodClass\bin\Debug\MethodClass.pdb
+D:\Users\Kris\Documents\GitHub\MethodClass\MethodClass\obj\Debug\MethodClass.csproj.AssemblyReference.cache
+D:\Users\Kris\Documents\GitHub\MethodClass\MethodClass\obj\Debug\MethodClass.csproj.CoreCompileInputs.cache
+D:\Users\Kris\Documents\GitHub\MethodClass\MethodClass\obj\Debug\MethodClass.exe
+D:\Users\Kris\Documents\GitHub\MethodClass\MethodClass\obj\Debug\MethodClass.pdb
