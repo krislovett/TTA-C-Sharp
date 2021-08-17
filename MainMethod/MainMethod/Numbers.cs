@@ -29,7 +29,7 @@ namespace MainMethod
         //DoMath divides number by input number when decimal is passed in
         public decimal DoMath(decimal DivideNum2)
         {
-            decimal divideResult = DivideNum / DivideNum2;
+            int divideResult = Convert.ToInt32(DivideNum / DivideNum2);
             return divideResult;
         }
 
