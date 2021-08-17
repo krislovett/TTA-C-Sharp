@@ -1,0 +1,7 @@
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ClassMethods\ClassMethods\obj\Debug\ClassMethods.csproj.AssemblyReference.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ClassMethods\ClassMethods\obj\Debug\ClassMethods.csproj.CoreCompileInputs.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ClassMethods\ClassMethods\bin\Debug\ClassMethods.exe.config
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ClassMethods\ClassMethods\bin\Debug\ClassMethods.exe
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ClassMethods\ClassMethods\bin\Debug\ClassMethods.pdb
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ClassMethods\ClassMethods\obj\Debug\ClassMethods.exe
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ClassMethods\ClassMethods\obj\Debug\ClassMethods.pdb
