@@ -1,0 +1,7 @@
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\OperatorOverloading\OperatorOverloading\bin\Debug\OperatorOverloading.exe.config
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\OperatorOverloading\OperatorOverloading\bin\Debug\OperatorOverloading.exe
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\OperatorOverloading\OperatorOverloading\bin\Debug\OperatorOverloading.pdb
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.csproj.AssemblyReference.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.csproj.CoreCompileInputs.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.exe
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.pdb
