@@ -1,0 +1,7 @@
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Structs\Structs\bin\Debug\Structs.exe.config
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Structs\Structs\bin\Debug\Structs.exe
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Structs\Structs\bin\Debug\Structs.pdb
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Structs\Structs\obj\Debug\Structs.csproj.AssemblyReference.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Structs\Structs\obj\Debug\Structs.csproj.CoreCompileInputs.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Structs\Structs\obj\Debug\Structs.exe
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Structs\Structs\obj\Debug\Structs.pdb
