@@ -1,0 +1,7 @@
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Time\Time\bin\Debug\Time.exe.config
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Time\Time\bin\Debug\Time.exe
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Time\Time\bin\Debug\Time.pdb
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Time\Time\obj\Debug\Time.csproj.AssemblyReference.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Time\Time\obj\Debug\Time.csproj.CoreCompileInputs.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Time\Time\obj\Debug\Time.exe
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Time\Time\obj\Debug\Time.pdb
