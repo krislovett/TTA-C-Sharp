@@ -1,0 +1,7 @@
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ConstructorChain\ConstructorChain\bin\Debug\ConstructorChain.exe.config
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ConstructorChain\ConstructorChain\bin\Debug\ConstructorChain.exe
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ConstructorChain\ConstructorChain\bin\Debug\ConstructorChain.pdb
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ConstructorChain\ConstructorChain\obj\Debug\ConstructorChain.csproj.AssemblyReference.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ConstructorChain\ConstructorChain\obj\Debug\ConstructorChain.csproj.CoreCompileInputs.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ConstructorChain\ConstructorChain\obj\Debug\ConstructorChain.exe
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\ConstructorChain\ConstructorChain\obj\Debug\ConstructorChain.pdb

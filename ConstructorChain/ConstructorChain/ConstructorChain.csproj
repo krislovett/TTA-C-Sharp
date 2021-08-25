@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A61223ED-251E-4730-87E1-FA925BEE3C58}</ProjectGuid>
+    <ProjectGuid>{AEF6D578-CD80-4357-B72E-7E79351683FF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TwentyOne</RootNamespace>
-    <AssemblyName>TwentyOne</AssemblyName>
+    <RootNamespace>ConstructorChain</RootNamespace>
+    <AssemblyName>ConstructorChain</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,9 +33,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Casino">
-      <HintPath>..\Casino\bin\Debug\Casino.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -46,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

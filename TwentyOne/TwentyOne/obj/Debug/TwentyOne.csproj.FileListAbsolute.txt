@@ -5,3 +5,6 @@ D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\TwentyOne\TwentyOne\obj\Debug\TwentyO
 D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
 D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
