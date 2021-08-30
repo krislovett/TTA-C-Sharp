@@ -1,0 +1,7 @@
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\AgeCheck\AgeCheck\bin\Debug\AgeCheck.exe.config
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\AgeCheck\AgeCheck\bin\Debug\AgeCheck.exe
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\AgeCheck\AgeCheck\bin\Debug\AgeCheck.pdb
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\AgeCheck\AgeCheck\obj\Debug\AgeCheck.csproj.AssemblyReference.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\AgeCheck\AgeCheck\obj\Debug\AgeCheck.csproj.CoreCompileInputs.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\AgeCheck\AgeCheck\obj\Debug\AgeCheck.exe
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\AgeCheck\AgeCheck\obj\Debug\AgeCheck.pdb
