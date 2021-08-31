@@ -1,0 +1,14 @@
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.exe
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.deps.json
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.runtimeconfig.json
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.runtimeconfig.dev.json
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.dll
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.pdb
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.csproj.AssemblyReference.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.AssemblyInfoInputs.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.AssemblyInfo.cs
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.csproj.CoreCompileInputs.cache
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.dll
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.pdb
+D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.genruntimeconfig.cache
