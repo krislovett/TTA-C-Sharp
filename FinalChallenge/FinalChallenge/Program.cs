@@ -1,7 +1,7 @@
 ﻿using System;
-using System.Linq;
-using System.Data.Entity;
 using System.Collections.Generic;
+using System.Data.Entity;
+using System.Linq;
 
 namespace FinalChallenge
 {
@@ -9,9 +9,9 @@ namespace FinalChallenge
     {
         static void Main()
         {
-            using (var db = new StudentContext())
+            using (var db = new StudentContext(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\Users\Kris\Documents\GitHub\TTA-C-Sharp\FinalChallenge\FinalChallenge\App_Data\FinalChallenge.mdf;Integrated Security=True"))
             {
-                var student = new Student() { Id = 1, FirstName = "Example", LastName = "Student", Grade = 11, GPA = 3.24m };
+                var student = new Student() { Id = 1, FirstName = "Test", LastName = "Student", Grade = 11, GPA = 3.24m };
                 db.Students.Add(student);
                 db.SaveChanges();
 
@@ -42,6 +42,8 @@ namespace FinalChallenge
 
         public class StudentContext : DbContext
         {
+            public StudentContext(string connectionString)
+                : base(connectionString) { }
             public DbSet<Student> Students { get; set; }
         }
     }
