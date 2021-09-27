@@ -1,6 +1,88 @@
 # TTA-C-Sharp
 This is a repository of C# and .NET projects. Most of these are basic console applications that demonstrate one or two C# fundamentals. The TwentyOne project is a functional Blackjack console game. CarInsurance is an ASP.NET site with an MVC structure and CRUD functions. It also has an admin page to view all insurees, and a quote calculator. NewsletterAppMVC is also an ASP.NET MVC site that allows users to sign up for a mock newsletter, and has an admin page to view signup information and unsubscribe users.
 
+## TwentyOne
+Blackjack console game. Built to handle different card games added in the future.
+
+![screenshotTwentyOne](https://user-images.githubusercontent.com/84836870/134958084-724ee09e-6bf6-47ec-bb69-111813930fc8.png)
+
+
+Deck shuffling function from Deck.cs:
+```csharp
+public void Shuffle(int times = 1)
+{
+    for (int i = 0; i < times; i++)
+    {
+        List<Card> TempList = new List<Card>();
+        Random random = new Random();
+
+        while (Cards.Count > 0)
+        {
+            int randomIndex = random.Next(0, Cards.Count);
+            TempList.Add(Cards[randomIndex]);
+            Cards.RemoveAt(randomIndex);
+        }
+        Cards = TempList;
+    }
+}
+```
+
+Function for getting all possible hand values from TwentyOneRules.cs:
+```csharp
+private static int[] GetAllPossibleHandValues(List<Card> Hand)
+{
+    int aceCount = Hand.Count(x => x.Face == Face.Ace);
+    int[] result = new int[aceCount + 1];
+    int value = Hand.Sum(x => _cardValues[x.Face]);
+    result[0] = value;
+    if (result.Length == 1) return result;
+    for (int i = 1; i < result.Length; i++)
+    {
+        value += (i * 10);
+        result[i] = value;
+    }
+    return result;
+}
+```
+
+Compare hands to see if anyone won, from TwentyOneRules.cs:
+```csharp
+public static bool? CompareHands(List<Card> PlayerHand, List<Card> DealerHand)
+{
+    int[] playerResults = GetAllPossibleHandValues(PlayerHand);
+    int[] dealerResults = GetAllPossibleHandValues(DealerHand);
+
+    int playerScore = playerResults.Where(x => x < 22).Max();
+    int dealerScore = dealerResults.Where(x => x < 22).Max();
+
+    if (playerScore > dealerScore) return true;
+    else if (playerScore < dealerScore) return false;
+    else return null;
+}
+```
+
+Log fraud attempts and other exceptions to database, from Program.cs:
+```csharp
+string queryString = @"INSERT INTO Exceptions (ExceptionType, ExceptionMessage, TimeStamp) VALUES
+                        (@ExceptionType, @ExceptionMessage, @TimeStamp)";
+
+using (SqlConnection connection = new SqlConnection(connectionString))
+{
+    SqlCommand command = new SqlCommand(queryString, connection);
+    command.Parameters.Add("@ExceptionType", SqlDbType.VarChar);
+    command.Parameters.Add("@ExceptionMessage", SqlDbType.VarChar);
+    command.Parameters.Add("@TimeStamp", SqlDbType.DateTime);
+
+    command.Parameters["@ExceptionType"].Value = ex.GetType().ToString();
+    command.Parameters["@ExceptionMessage"].Value = ex.Message;
+    command.Parameters["@TimeStamp"].Value = DateTime.Now;
+
+    connection.Open();
+    command.ExecuteNonQuery();
+    connection.Close();
+}
+```
+
 ## AbstractClass
 ```csharp
 //create abstract class Person
@@ -491,86 +573,4 @@ public struct Number
 //create object of Number data type and print to console
 Number num = new Number();
 num.Amount = 42.3m;
-```
-
-## TwentyOne
-Blackjack console game. Built to handle different card games added in the future.
-
-![screenshotTwentyOne](https://user-images.githubusercontent.com/84836870/134958084-724ee09e-6bf6-47ec-bb69-111813930fc8.png)
-
-
-Deck shuffling function from Deck.cs:
-```csharp
-public void Shuffle(int times = 1)
-{
-    for (int i = 0; i < times; i++)
-    {
-        List<Card> TempList = new List<Card>();
-        Random random = new Random();
-
-        while (Cards.Count > 0)
-        {
-            int randomIndex = random.Next(0, Cards.Count);
-            TempList.Add(Cards[randomIndex]);
-            Cards.RemoveAt(randomIndex);
-        }
-        Cards = TempList;
-    }
-}
-```
-
-Function for getting all possible hand values from TwentyOneRules.cs:
-```csharp
-private static int[] GetAllPossibleHandValues(List<Card> Hand)
-{
-    int aceCount = Hand.Count(x => x.Face == Face.Ace);
-    int[] result = new int[aceCount + 1];
-    int value = Hand.Sum(x => _cardValues[x.Face]);
-    result[0] = value;
-    if (result.Length == 1) return result;
-    for (int i = 1; i < result.Length; i++)
-    {
-        value += (i * 10);
-        result[i] = value;
-    }
-    return result;
-}
-```
-
-Compare hands to see if anyone won, from TwentyOneRules.cs:
-```csharp
-public static bool? CompareHands(List<Card> PlayerHand, List<Card> DealerHand)
-{
-    int[] playerResults = GetAllPossibleHandValues(PlayerHand);
-    int[] dealerResults = GetAllPossibleHandValues(DealerHand);
-
-    int playerScore = playerResults.Where(x => x < 22).Max();
-    int dealerScore = dealerResults.Where(x => x < 22).Max();
-
-    if (playerScore > dealerScore) return true;
-    else if (playerScore < dealerScore) return false;
-    else return null;
-}
-```
-
-Log fraud attempts and other exceptions to database, from Program.cs:
-```csharp
-string queryString = @"INSERT INTO Exceptions (ExceptionType, ExceptionMessage, TimeStamp) VALUES
-                        (@ExceptionType, @ExceptionMessage, @TimeStamp)";
-
-using (SqlConnection connection = new SqlConnection(connectionString))
-{
-    SqlCommand command = new SqlCommand(queryString, connection);
-    command.Parameters.Add("@ExceptionType", SqlDbType.VarChar);
-    command.Parameters.Add("@ExceptionMessage", SqlDbType.VarChar);
-    command.Parameters.Add("@TimeStamp", SqlDbType.DateTime);
-
-    command.Parameters["@ExceptionType"].Value = ex.GetType().ToString();
-    command.Parameters["@ExceptionMessage"].Value = ex.Message;
-    command.Parameters["@TimeStamp"].Value = DateTime.Now;
-
-    connection.Open();
-    command.ExecuteNonQuery();
-    connection.Close();
-}
 ```
